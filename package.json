@@ -1,0 +1,40 @@
+{
+  "name": "react-step-form",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "@material-ui/core": "^3.9.3",
+    "@material-ui/icons": "^3.0.2",
+    "history": "^4.9.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.0.2",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "^2.1.8",
+    "redux": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/history": "^4.7.2",
+    "@types/jest": "^24.0.11",
+    "@types/node": "11.12.1",
+    "@types/react": "16.8.10",
+    "@types/react-dom": "16.8.3",
+    "@types/react-redux": "^7.0.7",
+    "@types/react-router-dom": "^4.3.2",
+    "@typescript-eslint/eslint-plugin": "^1.6.0",
+    "@typescript-eslint/parser": "^1.6.0",
+    "node-sass": "^4.11.0",
+    "typescript": "^3.4.1"
+  }
+}

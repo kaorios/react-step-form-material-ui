@@ -1,0 +1,8 @@
+{
+  "short_name": "React step form",
+  "name": "React step form using Material UI",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
